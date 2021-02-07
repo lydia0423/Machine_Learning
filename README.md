@@ -1,5 +1,5 @@
 # Machine_Learning
-This repository consists of all the subjects that are needed to start machine learning. I will keep update it from time to time. If you would like to learn machine learning by yourselves, it is advisable to follow the steps bellow in order to have a better understanding about machine learning.
+This repository consists of all the subjects that are needed to start machine learning. I will keep update it from time to time. If you would like to learn machine learning by yourself, it is advisable to follow the steps bellow in order to have a better understanding about machine learning.
 
 If you would like to have the comments in different colors, you can install Better Comments in Extension. You can follow the settings I have been made or follow you own.
 

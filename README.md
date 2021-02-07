@@ -6,6 +6,7 @@ If you would like to have the comments in different colors, you can install Bett
 "better-comments.multilineComments": true,
     "better-comments.highlightPlainText": false,
     "better-comments.tags": [
+    
         {
           "tag": "?",
           "color": "#7533FF",
@@ -43,7 +44,6 @@ If you would like to have the comments in different colors, you can install Bett
           "italic": false
         }
     ],
-
 
 Table of Content
 1.0 Python

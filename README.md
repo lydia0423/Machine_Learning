@@ -3,7 +3,8 @@ This repository consists of all the subjects that are needed to start machine le
 
 If you would like to have the comments in different colors, you can install Better Comments in Extension. You can follow the settings I have been made or follow you own.
 
-{"better-comments.multilineComments": true,
+```
+"better-comments.multilineComments": true,
     "better-comments.highlightPlainText": false,
     "better-comments.tags": [
     
@@ -44,7 +45,7 @@ If you would like to have the comments in different colors, you can install Bett
           "italic": false
         }
     ],
-}
+```
 
 ##### Table of Contents  
 [1.0 Python](#headers)  

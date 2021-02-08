@@ -47,8 +47,3 @@ If you would like to have the comments in different colors, you can install Bett
     ],
 ```
 
-##### Table of Contents  
-[1.0 Python](#headers)  
-[   1.1 Learning Python](#headers)  
-[   1.2 Python Essential Training](#headers) 
-

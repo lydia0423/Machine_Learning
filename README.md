@@ -62,7 +62,7 @@ If you are on Linux/Mac, then type this instead:
 ```
 source venv/bin/activate
 ```
--Now, you can see (venv) in front of your file directory in the terminal
+- Now, you can see (venv) in front of your file directory in the terminal
 
 Step 2:
 - Type the following command in the terminal and install the requests module:

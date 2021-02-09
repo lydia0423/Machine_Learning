@@ -13,7 +13,7 @@
 #Simple version
 names = {}
 
-def upsertNames(line):
+def count_name(line):
     global names
     if line in names.keys(): 
         names.update({line : names.get(line) + 1})
@@ -24,7 +24,7 @@ if __name__ == "__main__":
     open_file = open('Name(Q22).txt', 'r')
     lines = open_file.readlines()
     for line in lines:
-        upsertNames(str(line).rstrip())
+        count_name(str(line).rstrip())
 
     print(names)
     open_file.close() 
@@ -33,7 +33,7 @@ if __name__ == "__main__":
 categories = {}
 parts = [] 
 
-def upsertCategories(line):
+def count_catagory(line):
     global categories
     if line in categories.keys(): 
         categories.update({line : categories.get(line) + 1})
@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
     for line in lines:
         parts = line.split('/')
-        upsertCategories(parts[2])
+        count_catagory(parts[2])
 
     for k, v in categories.items(): 
         print(str(k) + ' : ' + str(v))

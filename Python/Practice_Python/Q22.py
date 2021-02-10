@@ -16,6 +16,11 @@ names = {}
 def count_name(line):
     global names
     if line in names.keys(): 
+        #*update(): 
+        #*updates the dictionary with the elements from the another dictionary object or from 
+        #*an iterable of key/value pairs
+        #*adds element(s) to the dictionary if the key is not in the dictionary. 
+        #*If the key is in the dictionary, it updates the key with the new value
         names.update({line : names.get(line) + 1})
     else:
         names.update({line:1})
